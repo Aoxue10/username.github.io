@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 # 作業4 陳桓瑜
 
+![替代文字](https://github.com/Aoxue10/username.github.io/blob/main/yande.re%20747295%20daidou_(demitasse)%20kagamine_rin%20pantyhose%20valentine%20vocaloid.jpg)
 You can use the [editor on GitHub](https://github.com/Aoxue10/username.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
